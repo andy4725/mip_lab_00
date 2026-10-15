@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "EFI19uSqroY=",
+  "success": true,
+  "projectFilePath": "C:\\C#\\Person_Employee_Manager_Forms\\Person_Employee_Manager_Forms\\Person_Employee_Manager_Forms.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\endre\\.nuget\\packages\\microsoft.data.sqlite\\10.0.0\\microsoft.data.sqlite.10.0.0.nupkg.sha512",
+    "C:\\Users\\endre\\.nuget\\packages\\microsoft.data.sqlite.core\\10.0.0\\microsoft.data.sqlite.core.10.0.0.nupkg.sha512",
+    "C:\\Users\\endre\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.14\\sqlitepclraw.bundle_e_sqlite3.2.1.14.nupkg.sha512",
+    "C:\\Users\\endre\\.nuget\\packages\\sqlitepclraw.core\\2.1.14\\sqlitepclraw.core.2.1.14.nupkg.sha512",
+    "C:\\Users\\endre\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.14\\sqlitepclraw.lib.e_sqlite3.2.1.14.nupkg.sha512",
+    "C:\\Users\\endre\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.14\\sqlitepclraw.provider.e_sqlite3.2.1.14.nupkg.sha512",
+    "C:\\Users\\endre\\.nuget\\packages\\system.data.sqlite\\2.0.4\\system.data.sqlite.2.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
